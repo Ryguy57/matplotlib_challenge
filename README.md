@@ -1,5 +1,9 @@
 # matplotlib_challenge
 week 5
+
+
+
+
 After collecting and merging the raw data into one data frame, I was able to identify that the study group of 249 mice for the skin tumor clinical study were subjected to different drug treatment regimens to observe the effect on tumor volume. Among these regimens, Ramicane and Capomulin stood out with the lowest mean, median, variance, standard deviation, and standard error statistics, indicating their effectiveness in reducing tumor volume.
 
 Treatment Regimens and Outcome: Ramicane and Capomulin demonstrated significant success, both showing a mean tumor volume of around 40mm3.
